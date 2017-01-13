@@ -1,0 +1,11 @@
+{
+  "name": "my-oceanic-next",
+  "theme": "syntax",
+  "version": "0.5.0",
+  "description": "Based on the Sublime Text theme",
+  "repository": "https://github.com/lepetitforgeron/my-oceanic-next-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
